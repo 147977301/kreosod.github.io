@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kreoso.com/sitemap.xml
